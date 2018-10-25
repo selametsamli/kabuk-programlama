@@ -43,3 +43,23 @@
     - Çekirdek
     - init
     - Login
+
+### BIOS
+* ROM (Read Only Memory)'da saklanan bir işletim sistemidir.
+* Görevi açılışın ilk açılışta devreye girip donanım kontrolü yapmak, üzerindeki konfigürasyona göre sistemi boot edebilecek bir medya bulup sistemin açılışını sağlamaktır.
+### LILO (Linux Loader)
+* İşletim Sistemleri disklerin MBR (Master Boot Record) denilen kısımlarındaki bilgiler kullanılarak açılırlar.
+* LILO açılış yöneticisi birden fazla işletim sistemi bulunan sistemlerde açılışı düzenlemek için kullanılır.
+
+### Çekirdek
+* BIOS işini bitirdikten sonra Çekirdek açılış işlemlerini yönetmeye başlar.
+* Her açılışta sistemdeki donanımları denetler.
+* Bu işlemler tamamlandıktan sonra init programını çalıştırır.
+### init
+* init  programı başladıktan sonra  çekirdek bir yönetici ve servis sağlayıcı olarak çalışmaya başlar.
+* init programı bir dizi işlemi tamamlamaya çalışarak sistemin kararlı (stabil) bir şekilde açılmasını sağlamaya çalışır.
+### Login
+* init programı işini bitirdiğinde  aşağıdaki gibi bir kullanıcı girişi ekranıyla karşılaşırsınız.
+* Sisteme girerken ilk olarak göreceğiniz şey eğer ayarlanmışsa Message of The Day (MOTD Günün Mesajı) olacaktır. (/etc/motd)‏
+
+
