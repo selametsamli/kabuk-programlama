@@ -1,4 +1,5 @@
 # Kabuk Programlama Ders Notları:
 
-## Birinci Hafta:
-- [Birinci Hafta](https://github.com/ilteriskesk/MucitPark-Pyhton-Egitimi/blob/master/birinci_hafta.md)
+## [Birinci Hafta:](https://github.com/selametsamli/kabuk-programlama/blob/master/biricin_hafta.md)       
+* Linux işletim sistemine giriş
+    
