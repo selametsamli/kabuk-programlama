@@ -21,6 +21,7 @@
 ## Linux'mu, GNU/Linux mu?
  * [Cevabı bilmiyorsanız şurayı incelemenizi öneririm.](https://www.gnu.org/gnu/gnu-linux-faq.tr.html#why)
  * Linux değil GNU/Linux diye okunur!
+ * GNU, 'GNU's Not Unix' ile tanımlanır.
 
 ## Neden GNU/Linux Kulanmalıyım ?
  * Ücretsiz bir işletim sistemi.
