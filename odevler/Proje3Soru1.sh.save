@@ -1,0 +1,13 @@
+#!/bin/bash
+dosya_yolu=$1;
+n_sayisi=$2;
+
+
+
+
+if [ -f $dosya_yolu ]
+then
+	echo "dosya bulundu";
+else
+	echo "Dosya bulunamadı";
+fi
